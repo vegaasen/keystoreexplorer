@@ -1,0 +1,12 @@
+# Project-files
+.idea/
+*.iml
+
+#Build stuff
+target/
+/target
+lib/
+*.class
+
+#Random things
+keystores/
